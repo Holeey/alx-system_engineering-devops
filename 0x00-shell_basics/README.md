@@ -6,3 +6,4 @@
 5-listfilesdigitonly script is used to display current directory contents in long format with user and group IDs displayed numerically and it also display hidden files (starting with .)
 6-firstdirectory script is used to make a directory named my_first_directory in a tmp directory
 7-movethatfile script is used to move the betty file from the tmp directory  to the my_first_directory in the tmp directory
+8-firstdelete script is used to delete the file named betty
