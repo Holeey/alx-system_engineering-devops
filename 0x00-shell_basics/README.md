@@ -9,3 +9,4 @@
 8-firstdelete script is used to delete the file named betty
 9-firstdirdeletion script deletes my_first_directory form the tmp directory
 10-back script changes a current directory to the previous directory
+11-lists script displays content of a current directory and its parent directory including the hidden files and also displays content of the boot directory
