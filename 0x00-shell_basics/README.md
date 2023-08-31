@@ -12,3 +12,4 @@
 11-lists script displays content of a current directory and its parent directory including the hidden files and also displays content of the boot directory
 12-file_type script displays the type of a file. In this case it displays the type of iamafile using its content
 13-symbolic_link script provides a soft link to a target destination which is the ls file in the bin directory
+14-copy_html script is copies all html files from one directory to another directory that does not have the html files or that does not have the updated html files
