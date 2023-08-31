@@ -11,3 +11,4 @@
 10-back script changes a current directory to the previous directory
 11-lists script displays content of a current directory and its parent directory including the hidden files and also displays content of the boot directory
 12-file_type script displays the type of a file. In this case it displays the type of iamafile using its content
+13-symbolic_link script provides a soft link to a target destination which is the ls file in the bin directory
