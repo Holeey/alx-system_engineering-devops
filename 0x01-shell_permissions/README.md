@@ -9,3 +9,4 @@ Added a script that gives the user permission to execute the file hello
 8-James_Bond script gives permission to only other
 9-John_Doe script gives permission to user, group and other
 10-mirror_permissions script for copying permissions
+11-directories_permissions script adds execute permissions to all sub-directories in a current directory
