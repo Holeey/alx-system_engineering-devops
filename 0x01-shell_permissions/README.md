@@ -4,3 +4,4 @@
 3-new_owner script changes the owner of a file named hello to betty
 4-empty script creates an empty file named hello
 Added a script that gives the user permission to execute the file hello
+6-multiple_permissions script gives multiple permissions to user,group and other 
