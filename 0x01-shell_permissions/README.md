@@ -6,3 +6,4 @@
 Added a script that gives the user permission to execute the file hello
 6-multiple_permissions script gives multiple permissions to user,group and other 
 7-everybody script gives execute permission to everybody
+8-James_Bond script gives permission to only other
