@@ -11,3 +11,4 @@ Added a script that gives the user permission to execute the file hello
 10-mirror_permissions script for copying permissions
 11-directories_permissions script adds execute permissions to all sub-directories in a current directory
 13-change_group script changes group owners
+ 12-directory_permissions script makes a directory with a permission 751
