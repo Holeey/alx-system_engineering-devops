@@ -8,3 +8,4 @@ Added a script that gives the user permission to execute the file hello
 7-everybody script gives execute permission to everybody
 8-James_Bond script gives permission to only other
 9-John_Doe script gives permission to user, group and other
+10-mirror_permissions script for copying permissions
