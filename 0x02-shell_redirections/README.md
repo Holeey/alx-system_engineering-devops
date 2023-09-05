@@ -4,3 +4,4 @@
 3-twofiles script list contents of two different files in a current directory
  4-lastlines script is used to display the last 10lines of a file
 5-firstlines script is used to display the first 10 lines of a file
+6-third_line script displays the third line of a filr in a current directory
