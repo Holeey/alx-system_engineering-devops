@@ -12,3 +12,4 @@
 10-no_more_js script deletes all files with the .js extension
 11-directories script counts the number of directories in a current directory excluding itself and its parent directory
 12-newest_files script displays the ten newest lines of a file
+13-unique script takes a list of words as input and prints only words that appear exactly once
