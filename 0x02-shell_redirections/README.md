@@ -8,3 +8,4 @@
  7-file script prints out Best School
 7-file script is used to create a file that has a filename of escaped special characters
 8-cwd_state script list all the files in another file
+9-duplicate_last_line script copies the lastline of a file
