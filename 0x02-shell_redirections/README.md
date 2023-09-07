@@ -19,3 +19,4 @@
 17-hidethisword Display all the lines in the file /etc/passwd that do not contain the pattern bin.
 18-letteronly script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ replaces A and Z to c and e
+20-hiago removes the letter c from the word chicago
