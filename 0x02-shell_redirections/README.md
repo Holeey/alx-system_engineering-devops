@@ -21,3 +21,4 @@
 19-AZ replaces A and Z to c and e
 20-hiago removes the letter c from the word chicago
 21-reverse reverses an input
+22-users_and_homes displays all useeres and their home directories sorted by users
