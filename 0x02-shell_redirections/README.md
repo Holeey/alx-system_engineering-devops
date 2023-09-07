@@ -22,3 +22,4 @@
 20-hiago removes the letter c from the word chicago
 21-reverse reverses an input
 22-users_and_homes displays all useeres and their home directories sorted by users
+100-empty_casks displays all empty directories and files  in a current directory
