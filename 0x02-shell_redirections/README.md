@@ -13,3 +13,4 @@
 11-directories script counts the number of directories in a current directory excluding itself and its parent directory
 12-newest_files script displays the ten newest lines of a file
 13-unique script takes a list of words as input and prints only words that appear exactly once
+14-findthatword script Display lines containing the pattern “root” from the file /etc/passwd
