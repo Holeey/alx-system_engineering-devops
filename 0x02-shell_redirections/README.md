@@ -20,3 +20,4 @@
 18-letteronly script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ replaces A and Z to c and e
 20-hiago removes the letter c from the word chicago
+21-reverse reverses an input
